@@ -32,31 +32,13 @@
 
 ```java
 public class BelalElAmin {
+    String role = "Backend & Android Developer";
+    String location = "Fès, Morocco";
 
-    private final String name       = "Belal El Amin";
-    private final String role       = "Student Developer";
-    private final String education  = "Lycée Qualifiant Technique — Fès, Morocco 🇲🇦";
-    private final String status     = "✨ Open to Collaborate";
+    String[] techStack = {"Java", "Spring Boot", "PostgreSQL", "Android"};
 
-    private String[] currentFocus = {
-        "Spring Boot REST APIs",
-        "PostgreSQL Database Design", 
-        "Android Development (Java)",
-        "Backend + Mobile Integration"
-    };
-
-    private String[] currentlyLearning = {
-        "Spring Security & JWT",
-        "System Design Basics",
-        "Git & Team Collaboration"
-    };
-
-    public String getCurrentProject() {
-        return "SmartTrip — Intelligent Tourist Guide (Fès-Meknès) 🗺️";
-    }
-
-    public void sayHi() {
-        System.out.println("👋 Thanks for visiting! Let's build something great together 🚀");
+    void sayHi() {
+        System.out.println("👋 Hi! Let's build something amazing together 🚀");
     }
 }
 ```
@@ -118,9 +100,36 @@ public class BelalElAmin {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-## 🚀 Featured Project — SmartTrip
-
 <div align="center">
+  <table>
+    <tr>
+      <td width="58%" valign="top">
+
+## 🚀 Featured Project — SmartTrip
+> *Active project — Fès-Meknès region, Morocco*
+
+Tourists complete a smart questionnaire and receive **personalized itineraries** powered by a behavior-based recommendation engine, secured with JWT, and delivered via a native Android app.
+
+| Feature | Details |
+|---------|---------|
+| 🔐 Auth | JWT Authentication & Role-based Authorization |
+| 🤖 Engine | Behavior-based recommendation algorithm |
+| 📱 Mobile | Native Android companion app (Java) |
+| 🗄️ Database | PostgreSQL + JPA/Hibernate auto-generation |
+| 📋 UX | Smart questionnaire → personalized circuits |
+| 🏛️ Focus | Fès-Meknès landmarks & points of interest |
+
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+<br/>
+
+[![Backend](https://img.shields.io/badge/⚙️_View_Backend-f59e0b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/belamiin/smarttrip-backend)
+[![Android](https://img.shields.io/badge/📱_View_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/belamiin/smarttrip-android)
 
 | | |
 |-|-|
@@ -159,26 +168,15 @@ public class BelalElAmin {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-## 👥 Team — Groupe 07 · SmartTrip
-
+<!-- Snake Animation -->
 <div align="center">
-
-| Member | Module | Role | Contribution Highlight |
-|--------|--------|------|----------------------|
-| 👩‍💻 [Zineb](https://github.com/zineb)  | Auth · Profil · Notifications | Backend + Android | Designed JWT refresh flow + push notification system |
-| 👨‍💻 [Saad](https://github.com/saad) | Feed · POI · Événements | Backend + Android | Built geolocation API + offline caching strategy |
-| 👨‍💻 **[Belal](https://github.com/belamiin)** | **Circuits · Formulaire · Recommandation** | **Backend + Android** | **Architected recommendation engine + dynamic form parser** |
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake.svg"/>
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
-<!-- 🐍 Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/belamiin/belamiin/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
@@ -214,3 +212,18 @@ public class BelalElAmin {
   <p><strong>📬 Interested in collaborating?</strong> <a href="mailto:belal.elamin@example.com">Send me a message</a> or open an issue on my repos!</p>
   <sub>✨ Last updated: <i>March 2026</i></sub>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

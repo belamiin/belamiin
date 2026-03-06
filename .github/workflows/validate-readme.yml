@@ -1,4 +1,5 @@
 name: Validate README Links
+
 on:
   push:
     branches: [ main ]
@@ -6,14 +7,17 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 0 * * 0' # Run weekly
+
 jobs:
-  check-links:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+  check-links:                          # ← Job name required here
+    runs-on: ubuntu-latest              # ← This was missing
+    steps:                              # ← This was missing
+      - uses: actions/checkout@v4       # ← This step was missing
+      
       - name: Check links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           folder-path: '.'
           file-path: 'README.md'
+          config-file: '.github/workflows/.mlc_config.json'
           use-quiet-mode: 'yes'

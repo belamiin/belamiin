@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Belal+El+Amin;Student+Developer;Backend+%26+Databases" alt="Bilal El Amin - Student Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Bilal+El+Amin;Student+Developer;Backend+%26+Databases" alt="Bilal El Amin - Student Developer" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2800&pause=800&color=94A3B8&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Building+REST+APIs+%26+Android+Apps;Currently+building+SmartTrip+%F0%9F%97%BA%EF%B8%8F" alt="Tech Stack Subtitle" />
 
@@ -254,7 +254,7 @@ Tourists complete a smart questionnaire and receive **personalized itineraries**
 
 *Made with ❤️ by Bilal El Amin — Fès, Morocco 🇲🇦*
 
-📬 **Interested in collaborating?** [Send me a message](mailto:belal.elamin@example.com) or open an issue on my repos!
+📬 **Interested in collaborating?** [Send me a message](mailto:Bilal.elamin@example.com) or open an issue on my repos!
 
 <sub>✨ Last updated: <i>March 2026</i></sub>
 

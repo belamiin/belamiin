@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Belal+El+Amin;Student+Developer;Backend+%26+Databases" alt="Belal El Amin - Student Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Belal+El+Amin;Student+Developer;Backend+%26+Databases" alt="Bilal El Amin - Student Developer" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2800&pause=800&color=94A3B8&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Building+REST+APIs+%26+Android+Apps;Currently+building+SmartTrip+%F0%9F%97%BA%EF%B8%8F" alt="Tech Stack Subtitle" />
 
@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```java
-public class BelalElAmin {
+public class BilalElamin {
     String role     = "Backend & Android Developer";
     String location = "Fès, Morocco";
     String school   = "Lycée Qualifiant Technique, Fès";
@@ -233,10 +233,10 @@ Tourists complete a smart questionnaire and receive **personalized itineraries**
 <a href="https://github.com/belamiin">
   <img src="https://img.shields.io/badge/GitHub-belamiin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
 </a>
-<a href="mailto:belal.elamin@example.com">
+<a href="mailto:billal.belamin@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20Message-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/belal-el-amin">
+<a href="https://linkedin.com/in/bilal-el-amin">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://belamiin.dev">
@@ -252,7 +252,7 @@ Tourists complete a smart questionnaire and receive **personalized itineraries**
 
 **Thanks for visiting! 😊 Let's build something great together! 🚀**
 
-*Made with ❤️ by Belal El Amin — Fès, Morocco 🇲🇦*
+*Made with ❤️ by Bilal El Amin — Fès, Morocco 🇲🇦*
 
 📬 **Interested in collaborating?** [Send me a message](mailto:belal.elamin@example.com) or open an issue on my repos!
 
